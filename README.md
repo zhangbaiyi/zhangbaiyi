@@ -4,7 +4,7 @@
 ![alt](https://preview.redd.it/bsdxgdbr7z971.png?width=640&crop=smart&auto=webp&s=c8c126d83a2272cccd7ebb666ec9ae9a305c9d3b)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhangbaiyi)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhangbaiyi&theme=bear&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ---
 - 🔭 I’m currently working on: homework and useless shit the school pours into me
 - 🌱 I’m currently learning: embeded software engineering (this is true)
