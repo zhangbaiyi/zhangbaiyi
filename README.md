@@ -5,8 +5,7 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhangbaiyi&theme=solarized_light&show_icons=true&title_color=FFFFFF&border_clor=FFFFFF&border_radius=30&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0F9D58)](https://github.com/anuraghazra/github-readme-stats)
----
-<\br>
+Greetings, 
 - 🔭 I’m currently working on: homework and useless shit the school pours into me
 - 🌱 I’m currently learning: embeded software engineering (this is true)
 - 👯 I’m looking to collaborate on nothing currently
