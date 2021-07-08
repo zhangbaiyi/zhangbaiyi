@@ -15,4 +15,14 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: every number ends in "even" is odd.
 
+---
+
+
+<p align='center'>
+<a href="https://github.com/zhangbaiyi/" target="_blank"><img alt="Website" src="https://img.shields.io/github/stars/zhangbaiyi?style=social"></a>
+<a href="https://github.com/zhangbaiyi" target="_blank"><img alt="Website" src="https://img.shields.io/github/followers/zhangbaiyi?style=social"></a>
+    <a href="https://www.reddit.com/user/teethfreewolf" target="_blank"><img alt="Website" src="https://img.shields.io/reddit/user-karma/combined/teethfreewolf?style=social"></a>
+    <a href="https://twitter.com/baiyizhang" target="_blank"><img alt="Website" src="https://img.shields.io/twitter/follow/baiyizhang?style=social"></a>
+    <a href="https://www.youtube.com/channel/UCS0_naVMRQy-ktJmVkMrm2Q" target="_blank"><img alt="Website" src="https://img.shields.io/youtube/channel/subscribers/UCS0_naVMRQy-ktJmVkMrm2Q?style=social"></a>
+</p>
 
