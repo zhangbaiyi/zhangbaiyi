@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 
-![alt](https://preview.redd.it/bsdxgdbr7z971.png?width=640&crop=smart&auto=webp&s=c8c126d83a2272cccd7ebb666ec9ae9a305c9d3b)
+![alt](https://preview.redd.it/bsdxgdbr7z971.png?width=640&crop=smart&auto=webp&s=c8c126d83a2272cccd7ebb666ec9ae9a305c9d3b)  
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhangbaiyi&theme=solarized_light&show_icons=true&title_color=FFFFFF&border_clor=FFFFFF&border_radius=30&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0F9D58)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhangbaiyi&theme=solarized_light&show_icons=true&title_color=FFFFFF&border_clor=FFFFFF&border_radius=30&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0F9D58)](https://github.com/anuraghazra/github-readme-stats)  
 `:)`
 Greetings, 
 - 🔭 I’m currently working on: homework and useless shit the school pours into me
@@ -14,7 +14,7 @@ Greetings,
 - 💬 Ask me about: memes and indie bands
 - 📫 How to reach me: I'm on sOcIAl MeDIa 24/7 lol
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: every number ends in "even" is odd.
+- ⚡ Fun fact: every number ends in "even" is odd.  
 
 <p align='center'>
 <a href="https://github.com/zhangbaiyi/" target="_blank"><img alt="Website" src="https://img.shields.io/github/stars/zhangbaiyi?style=social"></a>
