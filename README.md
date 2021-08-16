@@ -1,11 +1,7 @@
 ### Hi there 👋
 
 
-<p align='center'>
-<img alt="Website" src="https://preview.redd.it/bsdxgdbr7z971.png?width=640&crop=smart&auto=webp&s=c8c126d83a2272cccd7ebb666ec9ae9a305c9d3b"></a>
-</p>
-
-[img](https://github.com/zhangbaiyi/zhangbaiyi/blob/main/bio.gif)
+![image](https://github.com/zhangbaiyi/zhangbaiyi/blob/main/readme_bio.gif)
 
 <p align='center'>
 <a href="https://github.com/zhangbaiyi/" target="_blank"><img alt="Website" src="https://img.shields.io/github/stars/zhangbaiyi?style=social"></a>
