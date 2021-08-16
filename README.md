@@ -6,19 +6,7 @@
 </p>
 
 
-`:)`
-Greetings, 
-- 🔭 I’m currently working on: homework and useless shit the school pours into me
-- 🌱 I’m currently learning: embeded software engineering (this is true)
-- 👯 I’m looking to collaborate on nothing currently
-- 🤔 I’m looking for help with building nice looking little things
-- 💬 Ask me about: memes and indie bands
-- 📫 How to reach me: I'm on sOcIAl MeDIa 24/7 lol
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: every number ends in "even" is odd.  
 
-
-:sunglasses::kissing_closed_eyes::thinking::zap::upside_down_face::nerd_face::sweat_smile:
 
 <p align='center'>
 <a href="https://github.com/zhangbaiyi/" target="_blank"><img alt="Website" src="https://img.shields.io/github/stars/zhangbaiyi?style=social"></a>
