@@ -5,8 +5,7 @@
 <img alt="Website" src="https://preview.redd.it/bsdxgdbr7z971.png?width=640&crop=smart&auto=webp&s=c8c126d83a2272cccd7ebb666ec9ae9a305c9d3b"></a>
 </p>
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">All I have is nothing but love</p>&mdash; noooob (@baiyizhang) <a href="https://twitter.com/baiyizhang/status/1427215423905226764?ref_src=twsrc%5Etfw">August 16, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+[img](https://github.com/zhangbaiyi/zhangbaiyi/blob/main/bio.gif)
 
 <p align='center'>
 <a href="https://github.com/zhangbaiyi/" target="_blank"><img alt="Website" src="https://img.shields.io/github/stars/zhangbaiyi?style=social"></a>
